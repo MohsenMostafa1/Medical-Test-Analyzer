@@ -7,10 +7,10 @@
 
 For this simplified demo, we'll focus on building a system that supports the following:
 
-    Accepting a PDF medical report or image.
-    Extracting basic test data (e.g., glucose, cholesterol).
-    Analyzing the data using a predefined rule-based knowledge base.
-    Generating recommendations.
+Accepting a PDF medical report or image.
+Extracting basic test data (e.g., glucose, cholesterol).
+Analyzing the data using a predefined rule-based knowledge base.
+Generating recommendations.
 
 Required Libraries
 
